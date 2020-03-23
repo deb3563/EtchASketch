@@ -2,6 +2,6 @@
 Java Swing Rainbow Etch-a-sketch
 Java 11
 
-To run:
+This repository doesn't include the class files.  To generate class files and run:
 javac *.java
 java EtchSketch
